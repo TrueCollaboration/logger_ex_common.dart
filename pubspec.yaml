@@ -1,0 +1,16 @@
+name: logger_ex_common
+description:
+
+publish_to: none
+
+version: 0.0.1
+
+environment:
+  sdk: ">=2.15.0 <3.0.0"
+
+dependencies:
+  true_core:
+    git:
+      url: https://github.com/TrueCollaboration/true_core.dart.git
+      
+  intl: any
