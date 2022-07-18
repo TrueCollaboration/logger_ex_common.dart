@@ -7,7 +7,7 @@ packages:
       name: clock
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.1.0"
+    version: "1.1.1"
   intl:
     dependency: "direct main"
     description:
@@ -21,7 +21,7 @@ packages:
       name: path
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.8.1"
+    version: "1.8.2"
   synchronized:
     dependency: transitive
     description:
@@ -34,9 +34,9 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: a2e2e90f9c9b22a250888e44eaf900dd6b968eda
+      resolved-ref: "1571325368b347a957fdcb325be452ceab726b48"
       url: "https://github.com/TrueCollaboration/true_core.dart.git"
     source: git
-    version: "0.0.2"
+    version: "0.0.3"
 sdks:
   dart: ">=2.15.0 <3.0.0"
